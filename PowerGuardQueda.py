@@ -7,7 +7,7 @@ import pygame
 pygame.mixer.init()
 
 # 🔔 Caminho do som
-alarme_som = r'C:\Users\DRT904168\Documents\pythonProject1\alarm-26718.mp3'
+alarme_som = 'alarm-26718.mp3'
 
 # 🔧 Variável de controle do alarme
 alarme_tocando = False
